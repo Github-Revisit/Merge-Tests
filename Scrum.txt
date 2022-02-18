@@ -1,6 +1,6 @@
 Scrum is an agile framework.
-It is applied to many companies and corporations as the new SDLC standard.
-The Advantages over the Waterfall method are overwhelming in customer satisfaction.
+It's frequently applied to many companies and startups as an industry SDLC standard.
+The Advantages over the Waterfall method are overwhelming in customer satisfaction. 
 
 In addition to Scrum, we have also discussed about Kanban and it's usefulness in realizing bottlenecks in production systems.
 We are going to try to create a merge commit again, by writing something, switching to main, merging, and then committing.
