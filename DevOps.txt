@@ -1,0 +1,3 @@
+DevOps is about bringing together Development and Operations. 
+By doing so we can create better communication, efficiency, and less downtime.
+We should be able to oversee the entirety of SDLC as DevOps engineers.

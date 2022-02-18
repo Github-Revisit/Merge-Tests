@@ -1,0 +1,3 @@
+Scrum is an agile framework.
+It is applied to many companies and corporations as the new SDLC standard.
+The Advantages over the Waterfall method are overwhelming in customer satisfaction.
